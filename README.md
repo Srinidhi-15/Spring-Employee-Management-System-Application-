@@ -25,4 +25,4 @@ BACKEND :
 - Maven
 - Postman Client (for API testing)
 - MySQL Database
-- 
+  
