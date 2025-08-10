@@ -12,6 +12,7 @@ FEATURES:
 6. API Integration – Frontend communicates with backend using Axios.
 
 TECHNOLOGY STACK :
+
 FRONTEND :
 - React JS 18+
 - Axios (for HTTP requests)
